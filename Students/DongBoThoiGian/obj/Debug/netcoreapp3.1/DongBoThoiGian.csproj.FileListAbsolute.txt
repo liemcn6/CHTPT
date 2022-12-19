@@ -1,0 +1,14 @@
+D:\HTPT\Students\DongBoThoiGian\bin\Debug\netcoreapp3.1\DongBoThoiGian.exe
+D:\HTPT\Students\DongBoThoiGian\bin\Debug\netcoreapp3.1\DongBoThoiGian.deps.json
+D:\HTPT\Students\DongBoThoiGian\bin\Debug\netcoreapp3.1\DongBoThoiGian.runtimeconfig.json
+D:\HTPT\Students\DongBoThoiGian\bin\Debug\netcoreapp3.1\DongBoThoiGian.runtimeconfig.dev.json
+D:\HTPT\Students\DongBoThoiGian\bin\Debug\netcoreapp3.1\DongBoThoiGian.dll
+D:\HTPT\Students\DongBoThoiGian\bin\Debug\netcoreapp3.1\DongBoThoiGian.pdb
+D:\HTPT\Students\DongBoThoiGian\obj\Debug\netcoreapp3.1\DongBoThoiGian.GeneratedMSBuildEditorConfig.editorconfig
+D:\HTPT\Students\DongBoThoiGian\obj\Debug\netcoreapp3.1\DongBoThoiGian.AssemblyInfoInputs.cache
+D:\HTPT\Students\DongBoThoiGian\obj\Debug\netcoreapp3.1\DongBoThoiGian.AssemblyInfo.cs
+D:\HTPT\Students\DongBoThoiGian\obj\Debug\netcoreapp3.1\DongBoThoiGian.csproj.CoreCompileInputs.cache
+D:\HTPT\Students\DongBoThoiGian\obj\Debug\netcoreapp3.1\DongBoThoiGian.dll
+D:\HTPT\Students\DongBoThoiGian\obj\Debug\netcoreapp3.1\DongBoThoiGian.pdb
+D:\HTPT\Students\DongBoThoiGian\obj\Debug\netcoreapp3.1\DongBoThoiGian.genruntimeconfig.cache
+D:\HTPT\Students\DongBoThoiGian\obj\Debug\netcoreapp3.1\DongBoThoiGian.csproj.AssemblyReference.cache

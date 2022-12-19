@@ -1,0 +1,6 @@
+D:\HTPT\Students\Code\Ntp\bin\Debug\Ntp.exe
+D:\HTPT\Students\Code\Ntp\bin\Debug\Ntp.pdb
+D:\HTPT\Students\Code\Ntp\obj\Debug\Ntp.csproj.AssemblyReference.cache
+D:\HTPT\Students\Code\Ntp\obj\Debug\Ntp.csproj.CoreCompileInputs.cache
+D:\HTPT\Students\Code\Ntp\obj\Debug\Ntp.exe
+D:\HTPT\Students\Code\Ntp\obj\Debug\Ntp.pdb

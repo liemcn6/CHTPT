@@ -1,0 +1,7 @@
+D:\HTPT\Students\Code\Communications\Transient\SocketServer\bin\Debug\SocketServer.exe.config
+D:\HTPT\Students\Code\Communications\Transient\SocketServer\bin\Debug\SocketServer.exe
+D:\HTPT\Students\Code\Communications\Transient\SocketServer\bin\Debug\SocketServer.pdb
+D:\HTPT\Students\Code\Communications\Transient\SocketServer\obj\Debug\SocketServer.csproj.AssemblyReference.cache
+D:\HTPT\Students\Code\Communications\Transient\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+D:\HTPT\Students\Code\Communications\Transient\SocketServer\obj\Debug\SocketServer.exe
+D:\HTPT\Students\Code\Communications\Transient\SocketServer\obj\Debug\SocketServer.pdb

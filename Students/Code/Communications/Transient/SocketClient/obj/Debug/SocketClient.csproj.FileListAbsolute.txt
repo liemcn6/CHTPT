@@ -1,0 +1,7 @@
+D:\HTPT\Students\Code\Communications\Transient\SocketClient\bin\Debug\SocketClient.exe.config
+D:\HTPT\Students\Code\Communications\Transient\SocketClient\bin\Debug\SocketClient.exe
+D:\HTPT\Students\Code\Communications\Transient\SocketClient\bin\Debug\SocketClient.pdb
+D:\HTPT\Students\Code\Communications\Transient\SocketClient\obj\Debug\SocketClient.csproj.AssemblyReference.cache
+D:\HTPT\Students\Code\Communications\Transient\SocketClient\obj\Debug\SocketClient.csproj.CoreCompileInputs.cache
+D:\HTPT\Students\Code\Communications\Transient\SocketClient\obj\Debug\SocketClient.exe
+D:\HTPT\Students\Code\Communications\Transient\SocketClient\obj\Debug\SocketClient.pdb

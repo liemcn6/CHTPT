@@ -1,0 +1,14 @@
+D:\HTPT\Students\bakerley\obj\Debug\netcoreapp3.1\bakerley.csproj.AssemblyReference.cache
+D:\HTPT\Students\bakerley\obj\Debug\netcoreapp3.1\bakerley.GeneratedMSBuildEditorConfig.editorconfig
+D:\HTPT\Students\bakerley\obj\Debug\netcoreapp3.1\bakerley.AssemblyInfoInputs.cache
+D:\HTPT\Students\bakerley\obj\Debug\netcoreapp3.1\bakerley.AssemblyInfo.cs
+D:\HTPT\Students\bakerley\obj\Debug\netcoreapp3.1\bakerley.csproj.CoreCompileInputs.cache
+D:\HTPT\Students\bakerley\bin\Debug\netcoreapp3.1\bakerley.exe
+D:\HTPT\Students\bakerley\bin\Debug\netcoreapp3.1\bakerley.deps.json
+D:\HTPT\Students\bakerley\bin\Debug\netcoreapp3.1\bakerley.runtimeconfig.json
+D:\HTPT\Students\bakerley\bin\Debug\netcoreapp3.1\bakerley.runtimeconfig.dev.json
+D:\HTPT\Students\bakerley\bin\Debug\netcoreapp3.1\bakerley.dll
+D:\HTPT\Students\bakerley\bin\Debug\netcoreapp3.1\bakerley.pdb
+D:\HTPT\Students\bakerley\obj\Debug\netcoreapp3.1\bakerley.dll
+D:\HTPT\Students\bakerley\obj\Debug\netcoreapp3.1\bakerley.pdb
+D:\HTPT\Students\bakerley\obj\Debug\netcoreapp3.1\bakerley.genruntimeconfig.cache

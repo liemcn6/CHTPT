@@ -1,0 +1,14 @@
+D:\HTPT\Students\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\HTPT\Students\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\HTPT\Students\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\HTPT\Students\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\HTPT\Students\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\HTPT\Students\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\HTPT\Students\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+D:\HTPT\Students\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\HTPT\Students\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\HTPT\Students\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\HTPT\Students\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\HTPT\Students\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\HTPT\Students\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\HTPT\Students\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
